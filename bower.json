@@ -1,0 +1,21 @@
+{
+  "name": "proyectos",
+  "description": "description du projet",
+  "main": "index.js",
+  "authors": [
+    "moimeme"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "tag1"
+  ],
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
